@@ -1,0 +1,9 @@
+1- Ele está a utilizar o PAN , porque está a fazer uma ligação até 10m e utilizou o bluetooth para ligar o seu  dispositivos pessoais.
+
+2- A escola está a usar o LAN , porque é uma rede de escola ou um sistema CCTV.
+
+3- Está a usar o CAN , porque é um conjunto de ligações interligados.
+
+4- É o LAN, porque está  a usar um local Área Network.
+
+5- È o PAN , porque está a usar uma tecnologia NFC para dispositivos pessoais.
