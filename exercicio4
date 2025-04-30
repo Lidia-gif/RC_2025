@@ -1,0 +1,8 @@
+Cénario A:
+Essa é a Topologia em Barra (barramento) porque estão ligados um cabo principal.
+
+Cénario B:
+Essa é a Topologia em Árvore porque o Switch principal recebe a informação e manda mais forte para todos os Switchs secundários.
+
+Cénario C:
+Essa é a Topologia em Anel porque os computadores recebem a informação e passa para todos os computadores até chegar no destino .
