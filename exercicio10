@@ -1,0 +1,3 @@
+A) Ela serve como uma ponte para os switch , ela analisa  o endereço MAC para enviar corretamente.
+B) Não ,porque ela esta lá para ajudar a permitindo a separação do tráfego entre dois segmentos assim impede o envio de mensagens sem interesse.
+C) A bridge recebe a informação e transmte para outros sem qualquer interferencia.
