@@ -1,3 +1,6 @@
 A) Acontece que quando o computador envia dados para  outros computodores em uma rede hub as informações ou dados são retransmitidos para todos os dispositivos.
 B) Acontece que o computador recebe a ligação e envia dados a outros computadores ou dispositivos .
-C) A vantagem de usar um hub em vez de um switch é que o hub é mais antigo e tem poucos megabate e o switch é mais atual e tem mais G , as desvantagem é que o hub é mais ariscado e não tem muito desempenho mas o switch é mais seguro e tem mais qualidade e desempenho.
+C) A vantagem de usar um hub em vez de um switch é que o hub é mais antigo e simples e o switch é mais atual  é mais seguro e tem mais qualidade e desempenho  , as desvantagem é que o hub é mais ariscado e não tem muito desempenho mas o switch  é mais carro e pode ser mais dificil a configuração é indisponivel.
+
+Correção:
+B) Só envia para Mac selecionado.
