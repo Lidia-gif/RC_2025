@@ -1,0 +1,6 @@
+                                  Bridge      Switch    Router
+Liga segmentos da mesma rede       ✔️         ✔️           x
+Encaminha por endereço Mac         ✔️         ✔️           x
+Encaminha por endereço IP           x          x           ✔️
+Acede á internet                    x          x           ✔️
+Trabalha em que camada              CM2        CM2        CM3
