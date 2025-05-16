@@ -1,0 +1,4 @@
+Função                      Gateway                                                                                                         Router
+Interliga redes               ✔️(Sim ,Eles podem usar o mesmo prolocolo mas o gateway uas diferentes protocolos de comunicação "LAN")       ✔️(Sim , eles podem usar o mesmo protocolo principalmente IP , mas o router uasr o IP para encaminhar pacotes entre redes "LAN")
+Traduz Protocolos             ✔️                                                                                                             x
+Encaminha tráfego             ✔️                                                                                                             ✔️
