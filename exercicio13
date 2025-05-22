@@ -1,0 +1,73 @@
+1- AS 7 camadas são: 1Fisica , 2Ligação de dados , 3Redes, 4Transporte , 5Sessão , 6Apresentação , 7Aplicação.
+
+
+2- Camada 1: Física:
+Esta camada define as características físicas da rede, como o tipo de cabo, o sinal elétrico utilizado, e as especificações de conexão. 
+
+Camada 2: Ligação de Dados:
+Responsável por transmitir dados entre dois dispositivos da mesma rede , utilizando endereços MAC para identificar os dispositivos na rede.
+
+Camada 3: Rede:
+Esta camada é responsável pelo encaminhamento de pacotes entre diferentes redes, utilizando endereços IP.
+
+Camada 4: Transporte:
+Garante que os dados chegem corretamente e na ordem certa, usando protocolos como TCP(Fiável) e UDP(Não fiável).
+
+Camada 5: Sessão:
+Gerencia a comunicação entre as aplicações, estabelecendo, mantendo e terminando sessões de comunicação. 
+
+Camada 6: Apresentação:
+Faz a tradução , encriptação e compressão dos dados. 
+
+Camada 7: Aplicação:
+Permite que as aplicações interajam com a rede, por exemplo, navegando na internet com um navegador web. 
+
+
+2.2- Camada Física 1: Danos físicos no cabo (cabo partido, desprotegido).
+
+Camada de Ligação de Dados 2: Falhas na detecção de erros, congestionamento do meio de transmissão (cabo com poucos bits por segundo).
+
+Camada de Rede 3:Endereços IP incorretos.
+
+Camada de Transporte 4:Falhas na sequência de segmentos de dados (ordem incorreta).
+
+Camada de Sessão 5: Falhas na gestão de conexões (sessões pendentes).
+
+Camada de Apresentação 6: Falhas na codificação de dados (códigos incorretos).
+
+Camada de Aplicação 7:  Ftaques à segurança.
+
+
+2.3- Camada Física 1: 
+Ferramentas: Testadores de cabos, medidores de perda de sinal, análise de tensão no cabo.
+Métodos: Testes de continuidade, medição de sinal, inspeção visual do cabo.
+
+ Camada de Ligação de Dados 2:
+Ferramentas:Analisadores de rede (ex: WireShark), ferramentas de análise de tráfego de rede.
+Métodos:Verificação de endereços MAC, detecção de erros de quadro, análise de colisões.
+
+ Camada de Rede 3:
+Ferramentas: Ping, Traceroute, analizadores de rede.
+Métodos: Verificação de endereços IP, testes de conectividade, análise de rotas.
+
+ Camada de Transporte 4:
+Ferramentas: Netstat, analizadores de rede, testes de porta.
+Métodos: Verificação de portas, análise de tráfego de rede, teste de conexões TCP e UDP.
+
+ Camada de Sessão 5:
+Ferramentas: Analisadores de rede, ferramentas de monitoramento de sessão.
+Métodos: Verificação de estabelecimento de sessão, análise de dados de sessão, monitoramento de sessão TCP.
+
+ Camada de Apresentação 6:
+Ferramentas:
+Ferramentas de análise de dados criptografados, analisadores de protocolo.
+Métodos:
+Verificação de segurança de sessão, análise de dados formatados, análise de protocolos de apresentação.
+
+ Camada de Aplicação 7:
+Ferramentas:Testadores de aplicação, ferramentas de monitoramento de aplicação, analizadores de protocolo.
+Métodos:Testes de aplicação, análise de protocolo, monitoramento de recursos de aplicação.
+
+
+
+
