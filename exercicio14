@@ -1,0 +1,41 @@
+1- As 4 camadas são: 1 Acesso á rede , 2 Internet , 3 Transporte , 4 Aplicação.
+
+1 Acesso á rede : Liga o dispositivo fisicamente á rede.
+2 Internet : Ela chega ao destino correcto , mesmo passando por várias redes.
+3 Transporte : Entrega corretamente e ordenada dos dados.
+ 4 Aplicação : Serviços de redes.
+
+
+2- 1 Acesso á rede :  Protocolo Wi-Fi.
+2 Internet : Protocolo ICMP.
+ 3 Transporte : Protocolo TCP.
+4 Aplicação : Protocolo HTTP.
+
+2.b-  1 Acesso á rede : Exemplo:
+A camada de interface cuida da transmissão física dos dados, por exemplo, através de Wi-Fi. 
+
+2 Internet : Exemplo:
+Os pacotes são transformados em datagramas, que contêm os endereços IP de origem e destino. 
+
+3 Transporte : Exemplo:
+O e-mail é dividido em pacotes, que são numerados e encaminhados para a porta correta (geralmente 25 para SMTP). 
+
+4 Aplicação : Exemplo:
+A camada de aplicação reconhece o e-mail como um pedido para usar o protocolo SMTP.
+
+________________________________________________________________________________________________________________________________
+Camada do Modelo TCP/IP|  Função na comunicação entre Ana e a Maria    |   Protocolo(S) Possivel(is)|    Unidade de informação
+Aplicação              |   Interface entre o utilizador e a rede       |    HTTP, DNS, FTP          |    Mensagem               |
+Transporte             |   Garantia de entrega , Controle de fluxo     |    TCP, UDP                |    Segmento               |
+Internet               |   Encaminhamento e endereçamento de depacotes |    IP, ICMP                |    Pacote                 |
+_________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
