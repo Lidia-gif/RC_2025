@@ -1,0 +1,10 @@
+Protocolos do modelo TCP/IP
+_________________________________________________________________________________________________________________
+Protocolo |    Função pricinpal                        |  Camada do modelo TCP/IP  |  Exemplo de utilização      |
+__________|____________________________________________|___________________________|_____________________________|
+HTTPS     |  Garante a segurança na comunicação web    |  Camada de aplicação  4   |  Segurança                  |
+TCP       |  Garante  a entrega confiável dos dados    |  Camada de transporte 3   |  Transmissão de dados       |
+DNS       |  Traduz nomes de domínio para endereços IP |  Camada de aplicação  4   |  Resolução de nomes         |
+ICMP      |  Ajuda na resolução de problemas de rede   |  Camada de internet   2   |  Verificação de comunicação |
+FTP       |  Facilita a transferência de arquivos      |  Camada de aplicação  4   |  Transferência de ficheiros |
+__________|___________________________________________ |___________________________|_____________________________|
