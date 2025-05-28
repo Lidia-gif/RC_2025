@@ -6,9 +6,9 @@ _______________|_________|
 _______________|_________|
 150.100.50.25  |    B    |
 _______________|_________|
-127.0.0.1      |    A    |   (Loopback)
+127.0.0.1      |(Loopback)
 _______________|_________|
-250.10.5.5     |    C    |
+250.10.5.5     |    E    |
 _______________|_________|
 224.0.0.1      |    D    |
 ______________ |_________|
@@ -18,3 +18,4 @@ _______________|_________|
 _______________|_________|
 
  A classe do endereço IP é definida pelo valor do primeiro octeto, que varia entre 1 e 255, e é utilizada para identificar se um endereço IP é de classe A, B, C, D ou E. 
+Fiz a correção.
